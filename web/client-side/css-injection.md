@@ -4,7 +4,7 @@ description: Injecting CSS code to leak content on a page using selectors
 
 # CSS Injection
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="cross-site-scripting-xss/html-injection.md" %}
 [html-injection.md](cross-site-scripting-xss/html-injection.md)

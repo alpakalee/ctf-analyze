@@ -4,7 +4,7 @@ description: An alternative JavaScript runtime with unique libraries and quirks
 
 # Bun
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="../../languages/javascript/" %}
 [javascript](../../languages/javascript/)

@@ -4,7 +4,7 @@ description: Servers on top of web applications that route traffic, manage heade
 
 # Reverse Proxies
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="../client-side/caching.md" %}
 [caching.md](../client-side/caching.md)

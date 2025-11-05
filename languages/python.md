@@ -4,7 +4,7 @@ description: Some tricks specific to the Python language
 
 # Python
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="../web/frameworks/flask.md" %}
 [flask.md](../web/frameworks/flask.md)

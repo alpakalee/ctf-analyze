@@ -4,7 +4,7 @@ description: The backend for running JavaScript as a server or application
 
 # NodeJS
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="../../languages/javascript/" %}
 [javascript](../../languages/javascript/)

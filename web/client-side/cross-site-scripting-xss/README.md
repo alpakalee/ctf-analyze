@@ -4,7 +4,7 @@ description: Inject JavaScript code on victims to perform actions on their behal
 
 # Cross-Site Scripting (XSS)
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="../../../languages/javascript/" %}
 [javascript](../../../languages/javascript/)

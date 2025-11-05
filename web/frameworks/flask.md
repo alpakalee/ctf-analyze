@@ -4,7 +4,7 @@ description: A Python library working with Werkzeug and Jinja2
 
 # Flask
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="../../languages/python.md" %}
 [python.md](../../languages/python.md)

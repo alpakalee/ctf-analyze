@@ -4,7 +4,7 @@ description: Tricks possible with malicious HTML, in case XSS is not quite possi
 
 # HTML Injection
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="./" %}
 [.](./)

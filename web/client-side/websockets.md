@@ -1,6 +1,6 @@
 # WebSockets
 
-## # Related Pages
+## Related Pages
 
 > Bypassing reverse proxies using [#websocket-and-h2c-smuggling](../server-side/reverse-proxies.md#websocket-and-h2c-smuggling "mention")
 

@@ -4,7 +4,7 @@ description: One-way functions that generate a unique hash of some data
 
 # Hashing
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="cracking-hashes.md" %}
 [cracking-hashes.md](cracking-hashes.md)

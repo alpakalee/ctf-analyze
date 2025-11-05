@@ -4,7 +4,7 @@ description: A popular Content Management System (CMS) for static content, with 
 
 # WordPress
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="../../languages/php.md" %}
 [php.md](../../languages/php.md)

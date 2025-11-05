@@ -4,7 +4,7 @@ description: Useful commands/syntax and bash tricks
 
 # Bash
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="hacking-linux-boxes.md" %}
 [hacking-linux-boxes.md](hacking-linux-boxes.md)

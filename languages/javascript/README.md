@@ -6,7 +6,7 @@ description: >-
 
 # JavaScript
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="../../web/client-side/cross-site-scripting-xss/" %}
 [cross-site-scripting-xss](../../web/client-side/cross-site-scripting-xss/)

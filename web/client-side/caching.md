@@ -4,7 +4,7 @@ description: Remember static content to resolve less requests by the backend
 
 # Caching
 
-## # Related Pages
+## Related Pages
 
 {% content-ref url="../server-side/reverse-proxies.md" %}
 [reverse-proxies.md](../server-side/reverse-proxies.md)
